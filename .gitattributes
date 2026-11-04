@@ -1,4 +1,0 @@
-*.pdf binary
-*.png binary
-*.md text eol=lf
-configs/* text eol=lf
